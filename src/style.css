@@ -1,0 +1,100 @@
+nav {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid gold;
+}
+#gold {
+  color: gold;
+}
+ul{
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+
+}
+
+
+#footer{
+  color: white;
+  background-color: black;
+ text-align: center;
+ border: 1px dotted gold;
+}
+li{
+  display: flex;
+  padding-right: 30px;
+  font-size: 20px;
+}
+h1{
+  font-size: 50px;
+}
+#dropdown{
+  width: 170px;
+  border-radius: 20px;
+}
+#lingo {
+  width: 170px;
+  border-radius: 20px;
+}
+button {
+  width: 170px;
+  height: 30px;
+  border-radius: 30px;
+  font-size: 19px;
+}
+#radio{
+  font-size: smaller;
+  align-items: center;
+}
+
+button:hover{
+  background-color: darkgray;
+
+}
+#comments{
+  height: 150px;
+}
+textarea {
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  height: 150px;
+}
+#subheading {
+  background-color: skyblue;
+  display: flex;
+  justify-content: center;
+}
+#form {
+  background-image: linear-gradient(skyblue, #d2cfd5, gold, black);
+  height: 900px;
+  display: flex;
+  justify-content: center;
+
+}
+input {
+  border-radius: 20px;
+  text-align: center;
+  display: flex;
+  width: 170px;
+}
+a:hover {
+  background-color: gray;
+}
+a {
+  color: white;
+}
+#icons {
+  padding-right: 10px;
+  padding-left: 10px;
+  color: red;
+}
+#icons:hover {
+  background-color: black;
+}
